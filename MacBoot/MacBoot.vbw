@@ -1,0 +1,6 @@
+frmMain = 22, 29, 902, 571, , 22, 29, 835, 571, C
+modMain = 44, 58, 857, 600, 
+frmConfig = 110, 145, 923, 687, C, 66, 87, 879, 629, C
+modRegistry = 114, 175, 994, 717, C
+CStopWatch = 0, 0, 0, 0, C
+modCapture = 66, 87, 879, 629, 
